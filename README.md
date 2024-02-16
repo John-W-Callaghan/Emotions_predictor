@@ -24,7 +24,12 @@ git clone https://github.com/yourusername/emotion-prediction.git
 cd emotion-prediction
 
 ```
-3. Run the Python script:
+3. Unzip the text.csv file and keep it in the same directoy as the .py files
+```python
+"Emotions_predictor/text.csv"
+
+```
+4. Run the Python script:
 ```python
 python emotion_prediction.py
 
